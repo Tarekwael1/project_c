@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689843659 source:d:\projects\c prog\code blocks\test\my_string\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698769537 source:d:\projects\c prog\code blocks\test\my_string\string.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"string.h"
+
+1695493164 d:\projects\c prog\code blocks\test\my_string\string.h
+
