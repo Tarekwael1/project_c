@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1695575234 source:d:\embedded system\05-nti\nti_final_project\main.c
+	<stdio.h>
+	<Windows.h>
+	"School_Management_System.h"
+
+1695575152 d:\embedded system\05-nti\nti_final_project\school_management_system.h
+
+1695575211 source:d:\embedded system\05-nti\nti_final_project\school_management_system.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	"School_Management_System.h"
+
+1695576222 source:d:\projects\c prog\nti_final_project\nti_final_project\main.c
+	<stdio.h>
+	<Windows.h>
+	"STD_TYPES.h"
+	"School_Management_System.h"
+
+1695575454 d:\projects\c prog\nti_final_project\nti_final_project\std_types.h
+
+1695576222 d:\projects\c prog\nti_final_project\nti_final_project\school_management_system.h
+
+1709574573 source:d:\projects\c prog\nti_final_project\nti_final_project\school_management_system.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	"STD_TYPES.h"
+	"School_Management_System.h"
+
+1759760460 source:d:\tarek\projects\c prog\nti_final_project\main.c
+	<stdio.h>
+	<Windows.h>
+	"STD_TYPES.h"
+	"School_Management_System.h"
+
+1695575454 d:\tarek\projects\c prog\nti_final_project\std_types.h
+
+1695576222 d:\tarek\projects\c prog\nti_final_project\school_management_system.h
+
+1759760657 source:d:\tarek\projects\c prog\nti_final_project\school_management_system.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	"STD_TYPES.h"
+	"School_Management_System.h"
+
